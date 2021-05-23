@@ -5,4 +5,4 @@ Where I Performed following tasks on my data:
 
 Here is my dash board which I created:
 
-<img src="Analysis project 1-1.jpg" width="3400" height="2200"/><br><br>
+<img src="Analysis project 1-1.jpg"/><br><br>
